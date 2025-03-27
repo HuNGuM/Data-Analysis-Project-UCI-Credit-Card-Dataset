@@ -1,0 +1,5 @@
+,unique_classes,missing_values,top_class_ratio
+SEX,2,0,0.6037333333333333
+EDUCATION,7,0,0.4676666666666667
+MARRIAGE,4,0,0.5321333333333333
+default.payment.next.month,2,0,0.7788
