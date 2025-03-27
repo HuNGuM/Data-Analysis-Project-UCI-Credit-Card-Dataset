@@ -1,6 +1,6 @@
-# 📊 Data Analysis Project – UCI Credit Card Dataset
+#  Data Analysis Project – UCI Credit Card Dataset
 
-## 📁 Project Description
+##  Project Description
 
 This project focuses on analyzing a credit card dataset from Taiwan. The main objective is to understand which customer attributes are associated with the risk of defaulting on a payment in the next month.
 
@@ -12,7 +12,7 @@ The analysis includes:
 
 ---
 
-## 🔧 Setup and Installation
+##  Setup and Installation
 
 ### 1. Create a virtual environment
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+## ▶ How to Run
 
 1. **Load the dataset:**
    ```bash
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 project/
@@ -77,7 +77,7 @@ project/
 
 ---
 
-## 📈 Methods Used
+##  Methods Used
 
 - Boxplot, Violinplot, Countplot
 - Error bars (mean ± std deviation)
@@ -88,7 +88,7 @@ project/
 
 ---
 
-## 📌 Key Questions Answered
+##  Key Questions Answered
 
 - Which features are most informative for predicting default?
 - Are there strong correlations between variables?
@@ -98,7 +98,7 @@ project/
 ---
 
 
-## 📚 References
+##  References
 
 - [UCI ML Repository – Default of Credit Card Clients Dataset](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
 - [Seaborn Documentation](https://seaborn.pydata.org/)
