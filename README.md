@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 1. **Load the dataset:**
    ```bash
